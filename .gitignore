@@ -27,3 +27,15 @@ proguard/
 *.ipr
 *.iws
 .idea/
+
+proj.blackberry/
+proj.mac/
+proj.marmalade/
+proj.win32/
+proj.winrt/
+proj.wp8/
+proj.linux/
+
+obj/
+
+.settings/
