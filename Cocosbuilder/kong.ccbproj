@@ -27,7 +27,7 @@
 	<key>onlyPublishCCBs</key>
 	<false/>
 	<key>publishDirectory</key>
-	<string>../cocos2d-x-2.2.1/projects/kong/Resources</string>
+	<string>../kong/Resources</string>
 	<key>publishDirectoryAndroid</key>
 	<string>../cocos2d-x-2.2.1/projects/kong/Resources</string>
 	<key>publishDirectoryHTML5</key>
